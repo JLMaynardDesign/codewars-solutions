@@ -11,4 +11,26 @@ Sure, this is about as easy as it gets. But how clever can you be to create the 
 
 const greet = function() {
   return "hello world!";
-}
+};
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
